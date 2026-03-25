@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d407690-0f38-4278-adf7-783dba79e72e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_base.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/quiz.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/QuizServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3BOsDbamVDn1DMYdxp9HkY32FAq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.MainApp.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/FORBIT/Desktop/one drive/OneDrive/Documents/GitHub/HyperSync-A-High-Concurrency-Real-Time-Assessment-Engine-",
+    "onboarding.tips.debug.path": "C:/Users/FORBIT/Desktop/one drive/OneDrive/Documents/GitHub/HyperSync-A-High-Concurrency-Real-Time-Assessment-Engine-/src/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA",
+      "JavaFX"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FORBIT\Desktop\one drive\OneDrive\Documents\GitHub\HyperSync-A-High-Concurrency-Real-Time-Assessment-Engine-\src" />
+      <recent name="C:\Users\FORBIT\Desktop\one drive\OneDrive\Documents\GitHub\HyperSync-A-High-Concurrency-Real-Time-Assessment-Engine-\src\client\client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.MainApp" />
+      <module name="src" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d407690-0f38-4278-adf7-783dba79e72e" name="Changes" comment="" />
+      <created>1774371337885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774371337885</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lib/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HyperSync_A_High_Concurrency_Real_Time_Assessment_Engine_$MainApp.ic" NAME="MainApp Coverage Results" MODIFIED="1774417782092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>client.*</FILTER>
+    </SUITE>
+  </component>
+</project>
